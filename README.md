@@ -45,6 +45,13 @@ Desenvolver um dashboard interativo no Power BI com o objetivo de analisar a efi
 
 Além disso, busca-se fornecer informações que auxiliem a tomada de decisão por órgãos públicos e entidades responsáveis, evidenciando níveis de desempenho entre municípios e contribuindo para estratégias mais eficazes de prevenção de acidentes e redução de fatalidades.
 ## Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas
+
+- 🐍 **Python**  
+- 📊 **Power BI**  
+- 📈 **Linguagem R**  
+- 💻 **GitHub**  
+- 🗂️ **Microsoft Office**
 
  ### Tecnologias Específicas/Apoio
  > Liste aqui todas as tecnologias utilizadas para concluir a entrega
