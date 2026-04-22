@@ -33,13 +33,9 @@ Fundamentado nos pilares de aprendizado baseado em problemas reais (RPBL), valid
 |  Team Member  | Pessoa 6       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass)          |
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Desenvolver um dashboard interativo no Power BI com o objetivo de analisar a eficiência da segurança viária no Brasil, a partir de dados reais, apoiando a identificação de padrões, riscos e oportunidades de melhoria.
 
+Além disso, busca-se fornecer informações que auxiliem a tomada de decisão por órgãos públicos e entidades responsáveis, evidenciando níveis de desempenho entre municípios e contribuindo para estratégias mais eficazes de prevenção de acidentes e redução de fatalidades.
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
