@@ -34,11 +34,11 @@ Fundamentado nos pilares de aprendizado baseado em problemas reais (RPBL), valid
 # Cronograma
 Sprint | Previsão | Status| Documentos |
 |------|--------|------|--------|
-|Kick Off | 11/03/2024 | Concluido |[Termo de abertura do Projeto](https://fatecspgov.sharepoint.com/:w:/s/PI-GrupoProjetoIntegrado/ERVgWtiZzmxKvKardK0d7UABvdHhrzd8VCLVRtyF44GVWw?e=0bQqH3) |
-|Sprint 01 | 15/04/2024| Concluido |  [Relatorio do Projeto](https://fatecspgov-my.sharepoint.com/:w:/r/personal/bianca_trevisan_fatec_sp_gov_br/_layouts/15/Doc.aspx?sourcedoc=%7BEFD7AF8F-719D-4600-8447-C940DB55B103%7D&file=anexo_8_modelo_relatorio_projeto_integrador_log.docx&wdOrigin=TEAMS-WEB.p2p_ns.rwc&action=default&mobileredirect=true) |
-|Sprint 02|  06/05/2024| Concluído | [Relatorio do Projeto](https://fatecspgov-my.sharepoint.com/:w:/r/personal/bianca_trevisan_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/anexo_8_modelo_relatorio_projeto_integrador_log%201.docx?d=w063478b3fffb4fe1ac946d6fe3fcfa8a&csf=1&web=1&e=cNFrwA) |
-|Sprint 03| 27/05/2024 | Concluido | [Relatorio do Projeto](https://github.com/user-attachments/files/15876366/Relatorio.API.-.Sprint.3.Logistica.periodo.noturno.pdf)
-|Sprint 04| 17/06/2024 | Concluido |[Relatorio do Projeto](https://github.com/user-attachments/files/15876369/Relatorio.API.-.Sprint.3.Logistica.periodo.noturno.pdf)
+|Kick Off | 06/03/2026 | Concluido |[Termo de abertura do Projeto](https://fatecspgov.sharepoint.com/:w:/s/PI-GrupoProjetoIntegrado/ERVgWtiZzmxKvKardK0d7UABvdHhrzd8VCLVRtyF44GVWw?e=0bQqH3) |
+|Sprint 01 | 24/04/2026| à fazer |  [Relatorio do Projeto](https://fatecspgov-my.sharepoint.com/:w:/r/personal/bianca_trevisan_fatec_sp_gov_br/_layouts/15/Doc.aspx?sourcedoc=%7BEFD7AF8F-719D-4600-8447-C940DB55B103%7D&file=anexo_8_modelo_relatorio_projeto_integrador_log.docx&wdOrigin=TEAMS-WEB.p2p_ns.rwc&action=default&mobileredirect=true) |
+|Sprint 02|  15/05/2026| à fazer | [Relatorio do Projeto](https://fatecspgov-my.sharepoint.com/:w:/r/personal/bianca_trevisan_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/anexo_8_modelo_relatorio_projeto_integrador_log%201.docx?d=w063478b3fffb4fe1ac946d6fe3fcfa8a&csf=1&web=1&e=cNFrwA) |
+|Sprint 03| 29/05/2026 | à fazer | [Relatorio do Projeto](https://github.com/user-attachments/files/15876366/Relatorio.API.-.Sprint.3.Logistica.periodo.noturno.pdf)
+|Feira de Soluções| 18/06/2026 | à fazer |[Relatorio do Projeto](https://github.com/user-attachments/files/15876369/Relatorio.API.-.Sprint.3.Logistica.periodo.noturno.pdf)
 |Feira de Soluções|27/06/2027 | à fazer |
 # Objetivo do Projeto
 Desenvolver um dashboard interativo no Power BI com o objetivo de analisar a eficiência da segurança viária no Brasil, a partir de dados reais, apoiando a identificação de padrões, riscos e oportunidades de melhoria.
