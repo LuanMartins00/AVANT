@@ -1,6 +1,6 @@
 # Aprendizado por Projeto Integrado (API)
 
-Projeto voltado à análise de eficiência da segurança viária no corredor da BR-116 no Vale do Paraíba.
+Projeto voltado à análise de eficiência da segurança viária.
 
 Desenvolvido com base na metodologia ágil SCRUM, o projeto busca aplicar técnicas de análise de dados (DEA) para avaliar o desempenho dos municípios, ao mesmo tempo em que promove o desenvolvimento de competências como proatividade, autonomia, colaboração e foco em entrega de resultados entre os participantes.
 # Índice
