@@ -39,7 +39,7 @@ Sprint | Previsão | Status| Documentos |
 |Sprint 02|  15/05/2026| à fazer | [Relatorio do Projeto](https://fatecspgov-my.sharepoint.com/:w:/r/personal/bianca_trevisan_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/anexo_8_modelo_relatorio_projeto_integrador_log%201.docx?d=w063478b3fffb4fe1ac946d6fe3fcfa8a&csf=1&web=1&e=cNFrwA) |
 |Sprint 03| 29/05/2026 | à fazer | [Relatorio do Projeto](https://github.com/user-attachments/files/15876366/Relatorio.API.-.Sprint.3.Logistica.periodo.noturno.pdf)
 |Feira de Soluções| 18/06/2026 | à fazer |[Relatorio do Projeto](https://github.com/user-attachments/files/15876369/Relatorio.API.-.Sprint.3.Logistica.periodo.noturno.pdf)
-|Feira de Soluções|27/06/2027 | à fazer |
+
 # Objetivo do Projeto
 Desenvolver um dashboard interativo no Power BI com o objetivo de analisar a eficiência da segurança viária no Brasil, a partir de dados reais, apoiando a identificação de padrões, riscos e oportunidades de melhoria.
 
