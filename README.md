@@ -16,7 +16,11 @@ Desenvolvido com base na metodologia ágil SCRUM, o projeto busca aplicar técni
 
 
 # Projeto (API) 
-Descrição da demanda realizada pelo parceiro acadêmico.
+
+Projeto pedagógico alicerçado na Metodologia API, voltado à análise de eficiência da segurança viária no Brasil, com foco no desenvolvimento de competências práticas.
+
+Fundamentado nos pilares de aprendizado baseado em problemas reais (RPBL), validação externa e mentalidade ágil, o projeto utiliza estratégias para compreender o problema, conceber soluções viáveis, desenvolver e implementar um MVP, seguido de sua operação (CDIO).
+
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
