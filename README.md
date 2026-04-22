@@ -1,9 +1,8 @@
 # Aprendizado por Projeto Integrado (API)
 
-Template para os projetos do curso de graduação em Logística, ensinando na utilização do repositório digital "GitHub". 
+Projeto voltado à análise de eficiência da segurança viária no corredor da BR-116 no Vale do Paraíba.
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
-
+Desenvolvido com base na metodologia ágil SCRUM, o projeto busca aplicar técnicas de análise de dados (DEA) para avaliar o desempenho dos municípios, ao mesmo tempo em que promove o desenvolvimento de competências como proatividade, autonomia, colaboração e foco em entrega de resultados entre os participantes.
 # Índice
 
 * [Projeto](#projeto-template)
