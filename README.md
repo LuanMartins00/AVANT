@@ -72,7 +72,7 @@ Além disso, busca-se fornecer informações que auxiliem a tomada de decisão p
 | 16 | Baixa | Como cliente, quero um ranking de eficiência em segurança viária dos municípios com mais de 250 mil habitantes. | 10 | 3 |
 
 ---
-# 📌 Requisitos do Projeto
+#  Requisitos do Projeto
 
 ## Requisitos Funcionais
 
@@ -94,7 +94,7 @@ Além disso, busca-se fornecer informações que auxiliem a tomada de decisão p
 
 ---
 
-# 📌 Requisitos do Cliente
+#  Requisitos do Cliente
 
 - Receber um dashboard com dados confiáveis e atualizados sobre segurança viária no Brasil.
 - Possuir análises comparativas entre estados e indicadores nacionais.
