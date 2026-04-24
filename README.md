@@ -72,80 +72,35 @@ Além disso, busca-se fornecer informações que auxiliem a tomada de decisão p
 | 16 | Baixa | Como cliente, quero um ranking de eficiência em segurança viária dos municípios com mais de 250 mil habitantes. | 10 | 3 |
 
 ---
-# Requisitos
+# 📌 Requisitos do Projeto
 
-Requisitos funcionais 
-- Conteúdo da apresentação   
-- Relatórios 
-- Experiência do usuário ao oferecer algo mais (UX)
+## Requisitos Funcionais
 
-  
-Requisitos não funcionais
-- Usar tecnologias especifícas/apoio/tecnológicas
-- Metodologias ágil
-- Power BI / Jira / Canvas
-  
-# Backlog do produto
-  
-<div align="center">
-    
-![product backlog](https://user-images.githubusercontent.com/69374340/172057734-320d9e43-19e9-409a-8f2d-7d159a1aaa9a.png)
-![sprint backlog](https://user-images.githubusercontent.com/69374340/172057787-dcc1ecce-1b08-464b-850e-7019dc050056.png)
-</div>
+- Apresentar dashboard interativo com visualização nacional e estadual dos dados de segurança viária.
+- Exibir indicadores como mortalidade por 100 mil habitantes, sinistros por 10 mil veículos e ranking de eficiência dos municípios.
+- Permitir filtros por ano, região, tipo de veículo e gravidade do sinistro.
+- Gerar relatórios e gráficos comparativos para apoio à análise e tomada de decisão.
+- Oferecer boa experiência do usuário (UX), com navegação simples, intuitiva e acesso rápido às informações.
 
+---
 
-# Burndown
-![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
+## Requisitos Não Funcionais
 
+- Utilizar Python para tratamento, limpeza e integração das bases de dados.
+- Desenvolver o front-end no Power BI.
+- Utilizar GitHub para versionamento e controle dos artefatos do projeto.
+- Aplicar metodologia ágil para organização das entregas e acompanhamento das sprints.
+- Garantir interface responsiva e apresentação visual clara.
 
-## Sprint 1. Concepção
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+---
 
-## Sprint 2. Desenvolvimento do Projeto
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
-      
-## Sprint 3 . Implementação
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-      
-## Sprint 4. Operacionalização
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+# 📌 Requisitos do Cliente
 
-# Funcionalidades e registros (vídeos e apresentações) das sprints
-
-Apresentação das funcionalidades
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
-
-Adicionar video e documentos nessa seção
-
-[![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
+- Receber um dashboard com dados confiáveis e atualizados sobre segurança viária no Brasil.
+- Possuir análises comparativas entre estados e indicadores nacionais.
+- Identificar fatores de risco envolvendo veículos pesados e principais causas de sinistros.
+- Obter um ranking de eficiência em segurança viária dos municípios com mais de 250 mil habitantes.
+- Utilizar os resultados como apoio para estudos acadêmicos e formulação de políticas públicas.
 
 # Competências desenvolvidas
 
