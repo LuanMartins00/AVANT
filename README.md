@@ -52,26 +52,29 @@ Além disso, busca-se fornecer informações que auxiliem a tomada de decisão p
 * Office
 # 📋 Backlog do Produto
 
-| Rank | Prioridade | User Story | Estimativa | Sprint | Requisito do Parceiro |
-|------|------------|-----------|------------|--------|------------------------|
-| 1 | Alta | Como cliente, quero receber os dados das bases tratados em Python, para garantir confiabilidade nas análises. | 18 | 1 | |
-| 2 | Alta | Como cliente, quero que o projeto utilize versionamento no GitHub, para garantir organização e rastreabilidade. | 8 | 1 | |
-| 3 | Alta | Como cliente quero receber uma interface preliminar dos dados tratados em Power BI para análise de sinistralidade no trânsito. | 12 | 1 | |
-| 4 | Alta | Como cliente, quero que o back-end integre e processe dados de sinistros, mortalidade, frota e população, para gerar indicadores de segurança viária no dashboard. | 18 | 1 | |
-| 5 | Baixa | Como cliente, quero visualizar os 5 principais motivos de acidentes nas rodovias em nível nacional, para identificar os fatores que mais contribuem para os sinistros. | 8 | 1 | |
-| 6 | Alta | Como cliente, quero filtrar os dados por ano, região, tipo de veículo e gravidade do sinistro, para facilitar a visualização e análise das informações. | 12 | 1 | |
-| 7 | Média | Como cliente, quero visualizar a média nacional de indicadores, para comparar com os resultados estaduais. | 8 | 2 | |
-| 8 | Média | Como cliente, quero visualizar dados de sinistros por estado, para identificar regiões com maior incidência. | 10 | 2 | |
-| 9 | Alta | Como cliente, quero visualizar um painel nacional com os principais indicadores de segurança viária, para obter uma visão geral da situação do país. | 14 | 2 | |
-| 10 | Média | Como cliente, quero visualizar a evolução anual dos acidentes de trânsito em gráficos de tendência, para analisar mudanças ao longo do tempo. | 10 | 2 | |
-| 11 | Baixa | Como cliente, quero analisar a evolução da eficiência dos estados ao longo dos anos, para identificar melhorias ou pioras na segurança viária. | 8 | 2 | |
-| 12 | Média | Como cliente, quero visualizar a taxa de mortalidade por 100 mil habitantes, para avaliar o impacto dos acidentes. | 8 | 3 | |
-| 13 | Média | Como cliente, quero visualizar sinistros por 10 mil veículos, para analisar o risco proporcional à frota. | 8 | 3 | |
-| 14 | Média | Como cliente, quero visualizar indicadores envolvendo veículos pesados, para avaliar sua participação nos sinistros. | 7 | 3 | |
-| 15 | Média | Como cliente, quero visualizar indicadores de severidade dos sinistros, para entender a gravidade dos acidentes. | 6 | 3 | |
-| 16 | Baixa | Como cliente, quero um ranking de eficiência em segurança viária dos municípios com mais de 250 mil habitantes. | 10 | 3 | |
+| Rank | Prioridade | User Story | Estimativa | Sprint |
+|------|------------|-----------|------------|--------|
+| 1 | Alta | Como cliente, quero receber os dados das bases tratados em Python, para garantir confiabilidade nas análises. | 18 | 1 |
+| 2 | Alta | Como cliente, quero que o projeto utilize versionamento no GitHub, para garantir organização e rastreabilidade. | 8 | 1 |
+| 3 | Alta | Como cliente quero receber uma interface preliminar dos dados tratados em Power BI para análise de sinistralidade no trânsito. | 12 | 1 |
+| 4 | Alta | Como cliente, quero que o back-end integre e processe dados de sinistros, mortalidade, frota e população, para gerar indicadores de segurança viária no dashboard. | 18 | 1 |
+| 5 | Baixa | Como cliente, quero visualizar os 5 principais motivos de acidentes nas rodovias em nível nacional, para identificar os fatores que mais contribuem para os sinistros. | 8 | 1 |
+| 6 | Alta | Como cliente, quero filtrar os dados por ano, região, tipo de veículo e gravidade do sinistro, para facilitar a visualização e análise das informações. | 12 | 1 |
+| 7 | Média | Como cliente, quero visualizar a média nacional de indicadores, para comparar com os resultados estaduais. | 8 | 2 |
+| 8 | Média | Como cliente, quero visualizar dados de sinistros por estado, para identificar regiões com maior incidência. | 10 | 2 |
+| 9 | Alta | Como cliente, quero visualizar um painel nacional com os principais indicadores de segurança viária, para obter uma visão geral da situação do país. | 14 | 2 |
+| 10 | Média | Como cliente, quero visualizar a evolução anual dos acidentes de trânsito em gráficos de tendência, para analisar mudanças ao longo do tempo. | 10 | 2 |
+| 11 | Baixa | Como cliente, quero analisar a evolução da eficiência dos estados ao longo dos anos, para identificar melhorias ou pioras na segurança viária. | 8 | 2 |
+| 12 | Média | Como cliente, quero visualizar a taxa de mortalidade por 100 mil habitantes, para avaliar o impacto dos acidentes. | 8 | 3 |
+| 13 | Média | Como cliente, quero visualizar sinistros por 10 mil veículos, para analisar o risco proporcional à frota. | 8 | 3 |
+| 14 | Média | Como cliente, quero visualizar indicadores envolvendo veículos pesados, para avaliar sua participação nos sinistros. | 7 | 3 |
+| 15 | Média | Como cliente, quero visualizar indicadores de severidade dos sinistros, para entender a gravidade dos acidentes. | 6 | 3 |
+| 16 | Baixa | Como cliente, quero um ranking de eficiência em segurança viária dos municípios com mais de 250 mil habitantes. | 10 | 3 |
 
 ---
+
+## 🔢 Total de Pontos de Esforço
+**165**
 
 ## 🔢 Total de Pontos de Esforço
 **165**
