@@ -34,7 +34,7 @@ Fundamentado nos pilares de aprendizado baseado em problemas reais (RPBL), valid
 # Cronograma
 Sprint | Previsão | Status| Documentos |
 |------|--------|------|--------|
-|Kick Off | 06/03/2026 | Concluido |[Termo de abertura do Projeto](| Kick Off | 06/03/2026 | Concluído | [Termo de Abertura do Projeto](./docs/Relatorio_API_03_AVANT_Int.docx) |) |
+|Kick Off | 06/03/2026 | Concluido |[Termo de abertura do Projeto](./docs/Relatorio_API_03_AVANT_Int.docx) |
 |Sprint 01 | 24/04/2026| à fazer |  [Relatorio do Projeto](https://fatecspgov-my.sharepoint.com/:w:/r/personal/bianca_trevisan_fatec_sp_gov_br/_layouts/15/Doc.aspx?sourcedoc=%7BEFD7AF8F-719D-4600-8447-C940DB55B103%7D&file=anexo_8_modelo_relatorio_projeto_integrador_log.docx&wdOrigin=TEAMS-WEB.p2p_ns.rwc&action=default&mobileredirect=true) |
 |Sprint 02|  15/05/2026| à fazer | [Relatorio do Projeto](https://fatecspgov-my.sharepoint.com/:w:/r/personal/bianca_trevisan_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/anexo_8_modelo_relatorio_projeto_integrador_log%201.docx?d=w063478b3fffb4fe1ac946d6fe3fcfa8a&csf=1&web=1&e=cNFrwA) |
 |Sprint 03| 29/05/2026 | à fazer | [Relatorio do Projeto](https://github.com/user-attachments/files/15876366/Relatorio.API.-.Sprint.3.Logistica.periodo.noturno.pdf)
