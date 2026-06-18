@@ -206,13 +206,13 @@ Além disso, busca-se fornecer informações que auxiliem a tomada de decisão p
 <img width="1432" height="815" alt="image" src="https://github.com/user-attachments/assets/0ee0c016-53cb-4d3c-a51c-b95bbd2194e4" />
 
 
-## MORTES POR ACIDENTE NO MUNICÍPIO:
+## CORRELAÇÃO DE PEARSON:
 
-<img width="828" height="485" alt="image" src="https://github.com/user-attachments/assets/d937139b-dcc0-4b17-b6c4-afb34165b87b" />
+<img width="976" height="549" alt="Pearson" src="https://github.com/user-attachments/assets/30706bdf-a7e4-4d46-8a71-2962f53d5175" />
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4e442f16-606c-497e-8679-bcc9f57fc914" />
+## TESTE DO QUI-QUADRADO:
 
-<img width="1073" height="837" alt="image" src="https://github.com/user-attachments/assets/15f5db92-7107-430c-aed9-577da9928df2" />
+<img width="974" height="539" alt="Qui-Quadrado" src="https://github.com/user-attachments/assets/d1f95cd2-4d10-42ae-aba6-7d50ef8dcb20" />
 
 ## MÉDIA POPULACIONAL POR CADA MUNICÍPIO:
 
@@ -301,8 +301,6 @@ Além disso, busca-se fornecer informações que auxiliem a tomada de decisão p
 | Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
-# CORRELAÇÃO DE PEARSON
-<img width="497" height="262" alt="image" src="https://github.com/user-attachments/assets/30e198d9-9c74-4c47-b438-9d1ba1d0c9cb" />
 
 </details>
 
