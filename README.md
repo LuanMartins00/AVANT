@@ -218,10 +218,6 @@ Além disso, busca-se fornecer informações que auxiliem a tomada de decisão p
 
 <img width="1164" height="743" alt="image" src="https://github.com/user-attachments/assets/00b1f3f8-d718-4b14-a14f-182f2ad12f81" />
 
-## RESULTADO DA ANÁLISE DE EFICIÊNCIA DOS ESTADOS:
-
-<img width="833" height="592" alt="image" src="https://github.com/user-attachments/assets/5699b859-24d6-4d45-872d-1b4461a6263b" />
-
 ## APROXIMADAMENTE 117 CIDADES BRASILEIRAS ACIMA DE 250.000 HABITANTES:
 
 <img width="1455" height="598" alt="image" src="https://github.com/user-attachments/assets/09c386d2-6d12-45ef-996a-79fd5c4fed5e" />
