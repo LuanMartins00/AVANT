@@ -3,6 +3,7 @@
 Projeto voltado à análise de eficiência da segurança viária.
 
 Desenvolvido com base na metodologia ágil SCRUM, o projeto busca aplicar técnicas de análise de dados (DEA) para avaliar o desempenho dos municípios, ao mesmo tempo em que promove o desenvolvimento de competências como proatividade, autonomia, colaboração e foco em entrega de resultados entre os participantes.
+
 # Índice
 
 * [Projeto](#projeto-api)
@@ -12,7 +13,8 @@ Desenvolvido com base na metodologia ágil SCRUM, o projeto busca aplicar técni
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Backlog do Produto](#-backlog-do-produto)
 * [Requisitos do Projeto](#-requisitos-do-projeto)
-* [Requisitos do Cliente](#-requisitos-do-cliente)
+* [Requisitos do Cliente](#requisitos-do-cliente)
+* [Desenvolvimento do projeto](#desenvolvimento-do-projeto)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 
 
@@ -36,9 +38,9 @@ Fundamentado nos pilares de aprendizado baseado em problemas reais (RPBL), valid
 Sprint | Previsão | Status| Documentos |
 |------|--------|------|--------|
 | Kick Off | 06/03/2026 | Concluído | [Termo de Abertura do Projeto](./Relatorio_API_03_AVANT_Int.docx) |
-|Sprint 01 | 24/04/2026| à fazer |  [Relatorio do Projeto](https://fatecspgov-my.sharepoint.com/:w:/r/personal/bianca_trevisan_fatec_sp_gov_br/_layouts/15/Doc.aspx?sourcedoc=%7BEFD7AF8F-719D-4600-8447-C940DB55B103%7D&file=anexo_8_modelo_relatorio_projeto_integrador_log.docx&wdOrigin=TEAMS-WEB.p2p_ns.rwc&action=default&mobileredirect=true) |
-|Sprint 02|  15/05/2026| à fazer | [Relatorio do Projeto](https://fatecspgov-my.sharepoint.com/:w:/r/personal/bianca_trevisan_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/anexo_8_modelo_relatorio_projeto_integrador_log%201.docx?d=w063478b3fffb4fe1ac946d6fe3fcfa8a&csf=1&web=1&e=cNFrwA) |
-|Sprint 03| 29/05/2026 | à fazer | [Relatorio do Projeto](https://github.com/user-attachments/files/15876366/Relatorio.API.-.Sprint.3.Logistica.periodo.noturno.pdf)
+|Sprint 01 | 24/04/2026| Concluído |  [Relatorio do Projeto](https://fatecspgov-my.sharepoint.com/:w:/r/personal/bianca_trevisan_fatec_sp_gov_br/_layouts/15/Doc.aspx?sourcedoc=%7BEFD7AF8F-719D-4600-8447-C940DB55B103%7D&file=anexo_8_modelo_relatorio_projeto_integrador_log.docx&wdOrigin=TEAMS-WEB.p2p_ns.rwc&action=default&mobileredirect=true) |
+|Sprint 02|  15/05/2026| Concluído | [Relatorio do Projeto](https://fatecspgov-my.sharepoint.com/:w:/r/personal/bianca_trevisan_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/anexo_8_modelo_relatorio_projeto_integrador_log%201.docx?d=w063478b3fffb4fe1ac946d6fe3fcfa8a&csf=1&web=1&e=cNFrwA) |
+|Sprint 03| 29/05/2026 | Concluído | [Relatorio do Projeto](https://github.com/user-attachments/files/15876366/Relatorio.API.-.Sprint.3.Logistica.periodo.noturno.pdf)
 |Feira de Soluções| 18/06/2026 | à fazer |[Relatorio do Projeto](https://github.com/user-attachments/files/15876369/Relatorio.API.-.Sprint.3.Logistica.periodo.noturno.pdf)
 
 # Objetivo do Projeto
@@ -48,7 +50,6 @@ Além disso, busca-se fornecer informações que auxiliem a tomada de decisão p
 ## Tecnologias Utilizadas
 * Power Bi
 * Linguagem Python
-* Linguagem R
 * GitHub
 * Office
 # 📋 Backlog do Produto
@@ -103,6 +104,173 @@ Além disso, busca-se fornecer informações que auxiliem a tomada de decisão p
 - Obter um ranking de eficiência em segurança viária dos municípios com mais de 250 mil habitantes.
 - Utilizar os resultados como apoio para estudos acadêmicos e formulação de políticas públicas.
 
+# Desenvolvimento do projeto
+
+## Figura 1: Python 
+
+- Importação da biblioteca Pandas para o tratamento dos dados CSV:
+
+<img width="945" height="606" alt="image" src="https://github.com/user-attachments/assets/91c1847b-808a-4320-9a48-4c7037576511" />
+
+## Figura 2: Python 
+
+- Determinando o cainho de acesso para cada pasta com os arquivos a serem utilizados:
+
+<img width="945" height="279" alt="image" src="https://github.com/user-attachments/assets/921280ce-a578-4dc0-bb74-7650cfd44ab1" />
+
+
+## Figura 3: Python 
+
+- Criando o acesso para que o Python entenda quais arquivos a serem acessados:
+
+<img width="945" height="452" alt="image" src="https://github.com/user-attachments/assets/fa57b420-c6eb-42b4-af0c-2d46780e5d4b" />
+
+
+## Figura 4: Python 
+
+- Realizando a leitura dos arquivos CSV através do Python:
+
+<img width="945" height="359" alt="image" src="https://github.com/user-attachments/assets/dad1d65d-d37c-47d4-bdb2-6d1a31633f9b" />
+
+
+## Figura 5: Python
+
+- Concatenando os arquivos de 2020 a 2025
+
+<img width="945" height="53" alt="image" src="https://github.com/user-attachments/assets/dccc8d8b-2fa0-4001-8bc9-d281a459dc02" />
+
+## Figura 6: Python
+
+- Identificando as informações dos arquivos, verificando a informação de cada coluna da base de dados:
+
+<img width="427" height="903" alt="image" src="https://github.com/user-attachments/assets/1a4cc82e-ca11-4e39-b3ae-8239df5f7b51" />
+<img width="753" height="1084" alt="image" src="https://github.com/user-attachments/assets/43223d29-a9d5-4ae1-80af-b4cce91bd17f" />
+
+## Figura 7: Python
+
+- Verificando um resumo do conteúdo dos dados:
+
+<img width="945" height="175" alt="image" src="https://github.com/user-attachments/assets/c5671bb6-98f0-4506-b594-502691b02b40" />
+
+## Figura 8: Python
+
+- Exportando os arquivos concatenados para uma pasta dedicada no Google Drive:
+
+<img width="945" height="121" alt="image" src="https://github.com/user-attachments/assets/bd585c50-34f3-431d-977b-b5d2d5cbe4a8" />
+
+# Dashboard com análise de dados no Power BI
+
+## RANKING DE MUNICÍPIOS COM MAIOR INCIDÊNCIA DE ACIDENTES:
+<br>
+<img width="578" height="283" alt="image" src="https://github.com/user-attachments/assets/21548e30-8f7b-4d29-89c6-7cfe1aee4f05" />
+<br/>
+
+## Análise de Pareto - Principais causas de acidentes:
+
+<img width="575" height="337" alt="image" src="https://github.com/user-attachments/assets/c540d37f-370b-4b85-a309-056ca7004967" />
+
+
+## Composição por severidade dos acidentes:
+
+<img width="581" height="331" alt="image" src="https://github.com/user-attachments/assets/c463198b-423a-49cd-ae08-45410491edd5" />
+
+## ACIDENTES POR DIAS DA SEMANA:
+
+<img width="602" height="365" alt="image" src="https://github.com/user-attachments/assets/d76e0493-5382-42a6-a7be-bdb46efaa13d" />
+
+
+## HORÁRIOS COM MAIOR ÍNDICE DE ACIDENTES:
+
+<img width="633" height="405" alt="image" src="https://github.com/user-attachments/assets/4f045361-3a41-4490-88fa-12d24e65db00" />
+
+## DISTRIBUIÇÃO DE ENVOLVIDOS POR FAIXA ETÁRIA:
+
+<img width="714" height="391" alt="image" src="https://github.com/user-attachments/assets/7faa8545-f19a-4cb5-aeb2-1e83619bc0d1" />
+
+## INCIDÊNCIA POR CATEGORIA DE VEÍCULO: 
+
+<img width="709" height="415" alt="image" src="https://github.com/user-attachments/assets/5d807567-aa11-48cb-9998-ca51cb57ae07" />
+
+## PROPORÇÃO DE ENVOLVIDOS POR GÊNERO: 
+
+<img width="715" height="329" alt="image" src="https://github.com/user-attachments/assets/fe3dbcc4-d051-4b2e-bdcf-ae227947a1a9" />
+
+## RANKING DAS 10PRINCIPAIS MARCAS DE VEÍCULOS:
+
+<img width="714" height="364" alt="image" src="https://github.com/user-attachments/assets/8805995c-bc41-4b13-afa5-afc072a73425" />
+
+## ARQUIVO EXCEL SENDO EXPORTADO PARA CSV:
+<img width="862" height="720" alt="image" src="https://github.com/user-attachments/assets/2b0badaf-cc60-440b-aaf8-cb65bc9bf2ad" />
+
+## ARQUIVO SALVO EM CSV:
+<img width="1432" height="815" alt="image" src="https://github.com/user-attachments/assets/0ee0c016-53cb-4d3c-a51c-b95bbd2194e4" />
+
+ANÁLISE DE EFICIÊNCIA - LINGUAGEM R
+## MORTES POR ACIDENTE NO MUNICÍPIO:
+
+<img width="828" height="485" alt="image" src="https://github.com/user-attachments/assets/d937139b-dcc0-4b17-b6c4-afb34165b87b" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4e442f16-606c-497e-8679-bcc9f57fc914" />
+
+<img width="1073" height="837" alt="image" src="https://github.com/user-attachments/assets/15f5db92-7107-430c-aed9-577da9928df2" />
+
+## MÉDIA POPULACIONAL POR CADA MUNICÍPIO:
+
+<img width="1164" height="743" alt="image" src="https://github.com/user-attachments/assets/00b1f3f8-d718-4b14-a14f-182f2ad12f81" />
+
+## RESULTADO DA ANÁLISE DE EFICIÊNCIA DOS ESTADOS:
+
+<img width="833" height="592" alt="image" src="https://github.com/user-attachments/assets/5699b859-24d6-4d45-872d-1b4461a6263b" />
+
+## APROXIMADAMENTE 117 CIDADES BRASILEIRAS ACIMA DE 250.000 HABITANTES:
+
+<img width="1455" height="598" alt="image" src="https://github.com/user-attachments/assets/09c386d2-6d12-45ef-996a-79fd5c4fed5e" />
+
+
+## 20 CIDADES MAIS POPULOSAS DO BRASIL:
+
+<img width="1798" height="568" alt="image" src="https://github.com/user-attachments/assets/106f4898-c8b1-4c24-b50e-222f22d8e46d" />
+
+
+## DISTRIBUIÇÃO DE ENVOLVIDOS POR FAIXA ETARIA: 
+
+<img width="459" height="145" alt="image" src="https://github.com/user-attachments/assets/205673d8-c92b-4eae-8011-d2a2884bd5c1" />
+
+## PROPORÇÃO POR ENVOLVIDOS POR GÊNERO:
+
+<img width="456" height="131" alt="image" src="https://github.com/user-attachments/assets/a8663f9d-a1d7-4a9e-a085-4ffff0988964" />
+
+## RANKING DAS 10 PRINCIPAIS MARCAS DE VEÍCULOS:
+
+<img width="462" height="196" alt="image" src="https://github.com/user-attachments/assets/dc8c8bfd-cb70-4493-a141-1ecba8d39234" />
+
+ ## INCIDÊNCIA POR CATEGORIA DE VEÍCULO:
+ 
+<img width="432" height="230" alt="image" src="https://github.com/user-attachments/assets/6752b63c-6e46-4afa-8645-7509a7135b5f" />
+
+## VOLUME DE ACIDENTES POR FAIXA DE IDADE DE FROTA: 
+
+<img width="436" height="268" alt="image" src="https://github.com/user-attachments/assets/ee4527cd-8e9a-4816-9d00-309b4f794602" />
+
+ 
+##  RANKING DE ACIDENTES POR PROPORÇÃO POPULACIONAL:
+
+<img width="437" height="260" alt="image" src="https://github.com/user-attachments/assets/2f50a2eb-b796-472b-a388-ddc1a3a36b76" />
+
+## CORRELAÇÃO ENTRE VOLUME DE OCORRÊNCIAS E DENSIDADE POPULACIONAL:
+
+<img width="457" height="257" alt="image" src="https://github.com/user-attachments/assets/6c1d3303-5b15-442d-b15e-6b3b1b71963b" />
+
+## MATRIZ COMPARATIVA DE EFICIÊNCIA TÉCNICA POR UF:
+
+<img width="426" height="223" alt="image" src="https://github.com/user-attachments/assets/06d0ef1f-74aa-418e-9098-bdb049b12c2b" />
+
+## DESEMPENHO GLOBAL: EFICIÊNCIA VS. EVOLUÇÃO MÉDIA:
+
+<img width="445" height="232" alt="image" src="https://github.com/user-attachments/assets/b5cb0b73-decd-4d71-a643-12656a1e3ca1" />
+
+
+
 # Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
@@ -133,7 +301,8 @@ Além disso, busca-se fornecer informações que auxiliem a tomada de decisão p
 | Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
+# CORRELAÇÃO DE PEARSON
+<img width="497" height="262" alt="image" src="https://github.com/user-attachments/assets/30e198d9-9c74-4c47-b438-9d1ba1d0c9cb" />
+
 </details>
-
-
 
